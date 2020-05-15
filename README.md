@@ -26,7 +26,7 @@ confcovid_19_india.csv: Contains positive negative cases detected from kaggle
 StatewiseTestingDetails.csv: Contains the statewise Details of Covid19 from kaggle
 
 ## Results
-The main findings of the code can be found at the post available here.
+The main findings of the code can be found at the post available [here](https://medium.com/@swarajdanta/indias-covid-19-and-its-analysis-state-wise-b75634888c92?source=friends_link&sk=7f834dfe917eb791ca196dbe4dd0602e).
 
 ## Licensing, Authors, Acknowledgements
 Must give credit to Stackoverflow for doubt clearing & Kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here. Otherwise, feel free to use the code here as you would like!
